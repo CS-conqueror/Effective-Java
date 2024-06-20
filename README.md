@@ -14,3 +14,10 @@
 | 아이템 3. private 생성자나 열거 타입으로 싱글턴임을 보증하라  | 이강현 | 2024.06.17 | [Java 2-3](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter2/20240617_ITEM_3.md)|
 | 아이템 4. 인스턴스화를 막으려거든 private 생성자를 사용하라  | 양지웅 | 2024.06.17 | [Java 2-4](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter2/20240617_ITEM_4.md) |
 | 아이템 5. 자원을 직접 명시하지말고 의존 객체 주입을 사용하라  | 최은혜 | 2024.06.17 | [Java 2-5](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter2/20240617_ITEM_5.md) |
+| 아이템 5. 자원을 직접 명시하지말고 의존 객체 주입을 사용하라  | 최은혜 | 2024.06.17 | [Java 2-5](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter2/20240617_ITEM_5.md) |
+| 아이템 6. 자원을 직접 명시하지말고 의존 객체 주입을 사용하라  | 최은혜 | 2024.06.17 | [Java 2-5](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter2/20240617_ITEM_5.md) |
+| 아이템 7. 자원을 직접 명시하지말고 의존 객체 주입을 사용하라  | 최은혜 | 2024.06.17 | [Java 2-5](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter2/20240617_ITEM_5.md) |
+| 아이템 5. 자원을 직접 명시하지말고 의존 객체 주입을 사용하라  | 최은혜 | 2024.06.17 | [Java 2-5](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter2/20240617_ITEM_5.md) |
+| 아이템 5. 자원을 직접 명시하지말고 의존 객체 주입을 사용하라  | 최은혜 | 2024.06.17 | [Java 2-5](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter2/20240617_ITEM_5.md) |
+| 아이템 10. equals는 일반 규약을 지켜 재정의하라  | 오유진 | 2024.06.20 | [Java 3-10](https://github.com/CS-conqueror/Effective-Java/tree/main/Chapter3) |
+
