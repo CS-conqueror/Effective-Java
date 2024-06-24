@@ -19,4 +19,5 @@
 | 아이템 8. finalizer와 cleaner 사용을 피하라  | 이강현 | 2024.06.20 | [Java 2-8](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter2/20240620_ITEM_8.md) |
 | 아이템 9. try-finally보다는 try-with-resources를 사용하라  | 최은혜 | 2024.06.20 | [Java 2-9](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter2/20240620_ITEM_9.md) |
 | 아이템 10. equals는 일반 규약을 지켜 재정의하라  | 오유진 | 2024.06.20 | [Java 3-10](https://github.com/CS-conqueror/Effective-Java/tree/main/Chapter3) |
-
+|   |  |  |  |
+| 아이템 12. toString을 항상 재정의하라  | 오유진 | 2024.06.24 |[Java 3-12](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter3/20240624_ITEM_12.md) |
