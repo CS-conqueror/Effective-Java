@@ -21,3 +21,6 @@
 | 아이템 10. equals는 일반 규약을 지켜 재정의하라  | 오유진 | 2024.06.20 | [Java 3-10](https://github.com/CS-conqueror/Effective-Java/tree/main/Chapter3) |
 |   |  |  |  |
 | 아이템 12. toString을 항상 재정의하라  | 오유진 | 2024.06.24 |[Java 3-12](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter3/20240624_ITEM_12.md) |
+|   |  |  |  |
+| 아이템 14. Comparable을 구현할지 고려하라 | 이강현 | 2024.06.24 | [Java 3-14](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter3/20240624_ITEM_14.md) |
+|   |  |  |  |
