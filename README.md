@@ -23,4 +23,4 @@
 | 아이템 12. toString을 항상 재정의하라  | 오유진 | 2024.06.24 |[Java 3-12](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter3/20240624_ITEM_12.md) |
 | 아이템 13. clone 재정의는 주의해서 진행하라 | 최은혜 | 2024.06.24 | [Java 3-13](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter3/20240624_ITEM_13.md)|
 | 아이템 14. Comparable을 구현할지 고려하라 | 이강현 | 2024.06.24 | [Java 3-14](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter3/20240624_ITEM_14.md) |
-| 아이템 15. 클래스와 멤버의 접근 권한을 최소화하라  | 양지웅 | 2024.06.24 |[Java 3-14]((https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter4/20240624_ITEM_15.md))   |
+| 아이템 15. 클래스와 멤버의 접근 권한을 최소화하라  | 양지웅 | 2024.06.24 |[Java 3-15](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter4/20240624_ITEM_15.md)   |
