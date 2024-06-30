@@ -26,6 +26,6 @@
 | 아이템 15. 클래스와 멤버의 접근 권한을 최소화하라  | 양지웅 | 2024.06.24 |[Java 4-15](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter4/20240624_ITEM_15.md)   |
 |   |  |  |  |
 | 아이템 17. 변경 가능성을 최소화하라  | 이강현 | 2024.06.27 |[Java 4-17](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter4/20240624_ITEM_17.md)   |
-| 아이템 18. 상속보다는 컴포지션을 사용하라 | 양지웅  | 2024.06.2 | [Java 4-18](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter4/20240627_ITEM_18.md)  |
+| 아이템 18. 상속보다는 컴포지션을 사용하라 | 양지웅  | 2024.06.27 | [Java 4-18](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter4/20240627_ITEM_18.md)  |
 |   |  |  |  |
 |   |  |  |  |
