@@ -24,7 +24,8 @@ public class InstrumentedHashSet<E> extends HashSet<E> {
     }
 }
 ```
- * addAll 실행 시 3개를 더해도 addAll은 6이 증가(HashSet이 add를 사용하기 때문)
+ * addAll 실행 시 3개를 더해도 addAll은 6이 증가
+   - HashSet이 add를 사용하고 위 코드에서는 InstrumentedHashSet의 add를 호출
  * 이에 맞게 수정을 하더라도 이후에 HashSet의 addAll 방식이 변경되면 문제 발생 가능
  * 하위 클래스 재정의
    - addAll을 하위클래스에서 새로 구현하는 것은 오류를 낼 수 있고 상위 클래스의 private 필드는 사용이 불가
@@ -79,6 +80,7 @@ public class InstrumentedHashSet<E> extends ForwardingSet<E> {
     }
 }
 ```
+- 이제 HashSet이 사용하는 add는 HashSet의 add를 사용함으로 문제 해결
 - 이미 Set 인터페이스를 구현한 어떤 구현체를 이용하여 그 기능을 안전하게 사용 가능
 - 래퍼 클래스는 콜백 프레임워크에 사용하면 SELF 문제가 발생하는 단점 존재
 ```java
@@ -160,5 +162,5 @@ interface SomethingWithCallback {
  - 결함이 있다면 다른 클래스의 API에 전파돼도 괜찮은가?
 
   ### 잘못 사용한 예시
-  - Vector와 Stack : add메서드를 통해 원소를 마지막이 아닌 위치에 삽입할 수 있음음
+  - Vector와 Stack : add메서드를 통해 원소를 마지막이 아닌 위치에 삽입할 수 있음
   - Hashtable과 Properties : get메서드를 통해 문자열 이외 키와 값도 사용 가능하고 불변식도 깰 수 있음
