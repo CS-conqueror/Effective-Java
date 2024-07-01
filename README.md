@@ -29,3 +29,4 @@
 | 아이템 18. 상속보다는 컴포지션을 사용하라 | 양지웅  | 2024.06.27 | [Java 4-18](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter4/20240627_ITEM_18.md)  |
 |   |  |  |  |
 | 아이템 20. 추상 클래스 보다는 인터페이스를 우선하라  | 오유진 | 2024.06.27 | [Java 4-20](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter4/20240627_ITEM_20.md)  |
+| 아이템 21. 인터페이스는 구현하는 쪽을 생각해 설계하라 | 오유진 | 2024.07.01 | [Java 4-21](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter4/20240701_ITEM_21.md)  |
