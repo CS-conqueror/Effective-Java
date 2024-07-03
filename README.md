@@ -31,3 +31,5 @@
 | 아이템 20. 추상 클래스 보다는 인터페이스를 우선하라  | 오유진 | 2024.06.27 | [Java 4-20](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter4/20240627_ITEM_20.md)  |
 | 아이템 21. 인터페이스는 구현하는 쪽을 생각해 설계하라 | 오유진 | 2024.07.01 | [Java 4-21](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter4/20240701_ITEM_21.md)  |
 | 아이템 22. 인터페이스는 타입을 정의하는 용도로만 사용하라 | 이강현 | 2024.07.01 | [Java 4-22](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter4/20240701_ITEM_22.md)  |
+|   |  |  |  |
+| 아이템 24. 멤버 클래스는 되도록 static으로 만들라  | 양지웅 | 2024.07.04 | [Java 4-24](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter4/20240704_ITEM_24.md)  |
