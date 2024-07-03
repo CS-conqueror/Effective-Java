@@ -77,6 +77,9 @@ public class Main {
 <br>
 
 ## 익명 클래스
+
+---
+
 > 이름이 없는 일회성 클래스
 
 ```java
@@ -109,6 +112,9 @@ public class Main {
 <br>
 
 ## 지역 클래스
+
+---
+
 > 메서드 내부에 정의된 클래스로 지역변수와 선언 위치 및 유효 범위가 동일
 ```java
 public class OuterClass {
