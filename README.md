@@ -33,3 +33,5 @@
 | 아이템 22. 인터페이스는 타입을 정의하는 용도로만 사용하라 | 이강현 | 2024.07.01 | [Java 4-22](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter4/20240701_ITEM_22.md)  |
 |   |  |  |  |
 | 아이템 24. 멤버 클래스는 되도록 static으로 만들라  | 양지웅 | 2024.07.04 | [Java 4-24](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter4/20240704_ITEM_24.md)  |
+|   |  |  |  |
+| 아이템 26. 로 타입은 사용하지 말라  | 이강현 | 2024.07.04 | [Java 5-26](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter5/20240704_ITEM_26.md)  |
