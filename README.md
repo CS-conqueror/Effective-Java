@@ -36,5 +36,5 @@
 |   |  |  |  |
 | 아이템 26. 로 타입은 사용하지 말라  | 이강현 | 2024.07.04 | [Java 5-26](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter5/20240704_ITEM_26.md)  |
 |   |  |  |  |
-|   |  |  |  |
+| 아이템 28. 배열보다는 리스트를 사용하라 | 최은혜 | 2024.07.08 | [Java 5-28](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter5/20240708_ITEM_28.md) |
 | 아이템 29. 이왕이면 제네릭 타입으로 만들라  | 양지웅 | 2024.07.08 | [Java 5-29](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter5/20240708_ITEM_29.md) |
