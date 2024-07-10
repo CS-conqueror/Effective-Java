@@ -27,17 +27,17 @@
 | 아이템 16. public 클래스에서는 pubjlic 필드가 아닌 접근자 메서드를 사용하라  | 최은혜 | 2024.06.27 |[Java 4-16](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter4/20240627_ITEM_16.md)   |
 | 아이템 17. 변경 가능성을 최소화하라  | 이강현 | 2024.06.27 |[Java 4-17](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter4/20240627_ITEM_17.md)   |
 | 아이템 18. 상속보다는 컴포지션을 사용하라 | 양지웅  | 2024.06.27 | [Java 4-18](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter4/20240627_ITEM_18.md)  |
-|   |  |  |  |
+| 아이템 19. 상속을 고려해 설계하고 문서화하라. 그러지 않았다면 상속을 금지하라   | 최다환 | 2024.06.27 | [Java 4-19](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter4/20240627_ITEM_19.md) |
 | 아이템 20. 추상 클래스 보다는 인터페이스를 우선하라  | 오유진 | 2024.06.27 | [Java 4-20](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter4/20240627_ITEM_20.md)  |
 | 아이템 21. 인터페이스는 구현하는 쪽을 생각해 설계하라 | 오유진 | 2024.07.01 | [Java 4-21](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter4/20240701_ITEM_21.md)  |
 | 아이템 22. 인터페이스는 타입을 정의하는 용도로만 사용하라 | 이강현 | 2024.07.01 | [Java 4-22](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter4/20240701_ITEM_22.md)  |
-|   |  |  |  |
+| 아이템 23. 아이템 23 태그 달린 클래스보다는 클래스 계층구조를 활용하라  | 최다환 | 2024.07.01 | [Java 4-23](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter4/20240704_ITEM_23.md)  |
 | 아이템 24. 멤버 클래스는 되도록 static으로 만들라  | 양지웅 | 2024.07.04 | [Java 4-24](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter4/20240704_ITEM_24.md)  |
-|   |  |  |  |
+| 아이템 25. 톱레벨 클래스는 한 파일에 나눠서 담으라  | 최다환 | 2024.07.04 | [Java 4-25](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter4/20240704_ITEM_25.md)  |
 | 아이템 26. 로 타입은 사용하지 말라  | 이강현 | 2024.07.04 | [Java 5-26](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter5/20240704_ITEM_26.md)  |
-|   |  |  |  |
+| 아이템 27. 비검사 경고를 제거하라  | 최다환 | 2024.07.08 | [Java 5-27](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter5/20240704_ITEM_27.md)  |
 | 아이템 28. 배열보다는 리스트를 사용하라 | 최은혜 | 2024.07.08 | [Java 5-28](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter5/20240708_ITEM_28.md) |
 | 아이템 29. 이왕이면 제네릭 타입으로 만들라  | 양지웅 | 2024.07.08 | [Java 5-29](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter5/20240708_ITEM_29.md) |
 | 아이템 30. 이왕이면 제네릭 메서드로 만들라 | 이강현 | 2024.07.11 | [Java 5-30](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter5/20240711_ITEM_30.md)|
-|   |  |  |  |
+| 아이템 31. 아이템 31 한정적 와일드카드를 사용해 API 유연성을 높이라 | 최다환 | 2024.07.11 | [Java 5-31](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter5/20240711_ITEM_31.md)|
 | 아이템 32. 제네릭과 가변인수를 함께 쓸 때는 신중하라 | 오유진 | 2024.07.11 | [Java 5-32](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter5/20240711_ITEM_32.md)|
