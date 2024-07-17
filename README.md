@@ -43,5 +43,4 @@
 | 아이템 32. 제네릭과 가변인수를 함께 쓸 때는 신중하라 | 오유진 | 2024.07.11 | [Java 5-32](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter5/20240711_ITEM_32.md)|
 | 아이템 33. 타입 안전 이종 컨테이너를 고려하라 | 최은혜 | 2024.07.15 | [Java 5-33](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter5/20240715_ITEM_33.md)|
 | 아이템 35. ordinal 메서드 대신 인스턴스 필드를 사용하라 | 오유진 | 2024.07.15 | [Java 6-35](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter6/20240715_ITEM_35.md)|
-
-
+| 아이템 38. 확장할 수 있는 열거 타입이 필요하면 인터페이스를 사용하라 | 오유진 | 2024.07.18 | [Java 6-35](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter6/20240718_ITEM_38.md)|
