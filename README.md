@@ -46,5 +46,6 @@
 | 아이템 36. 비트 필드 대신 EnumSet을 사용하라 | 양지웅 | 2024.07.18 | [Java 6-36](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter6/20240718_ITEM_36.md)|
 | 아이템 37. ordinal 인덱싱 대신 EnumMap을 사용하라 | 최은혜 | 2024.07.18 | [Java 6-37](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter6/20240718_ITEM_37.md)|
 | 아이템 38. 확장할 수 있는 열거 타입이 필요하면 인터페이스를 사용하라 | 오유진 | 2024.07.18 | [Java 6-38](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter6/20240718_ITEM_38.md)|
+| 아이템 39. 명명 패턴보다 애너테이션을 사용하라 | 최은혜 | 2024.07.22 | [Java 6-39](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter6/20240722_ITEM_39.md)|
 | 아이템 41. 정의하려는 것이 타입이라면 마커 인터페이스를 사용하라 | 양지웅 | 2024.07.22 | [Java 6-41](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter6/20240722_ITEM_41.md)|
 
