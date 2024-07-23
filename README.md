@@ -42,10 +42,12 @@
 | 아이템 31. 아이템 31 한정적 와일드카드를 사용해 API 유연성을 높이라 | 최다환 | 2024.07.11 | [Java 5-31](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter5/20240711_ITEM_31.md)|
 | 아이템 32. 제네릭과 가변인수를 함께 쓸 때는 신중하라 | 오유진 | 2024.07.11 | [Java 5-32](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter5/20240711_ITEM_32.md)|
 | 아이템 33. 타입 안전 이종 컨테이너를 고려하라 | 최은혜 | 2024.07.15 | [Java 5-33](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter5/20240715_ITEM_33.md)|
+| 아이템 34. int 상수 대신 열거 타입을 사용하라 | 최다환 | 2024.07.15 | [Java 56-34](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter6/20240715_ITEM_34.md)|
 | 아이템 35. ordinal 메서드 대신 인스턴스 필드를 사용하라 | 오유진 | 2024.07.15 | [Java 6-35](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter6/20240715_ITEM_35.md)|
 | 아이템 36. 비트 필드 대신 EnumSet을 사용하라 | 양지웅 | 2024.07.18 | [Java 6-36](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter6/20240718_ITEM_36.md)|
 | 아이템 37. ordinal 인덱싱 대신 EnumMap을 사용하라 | 최은혜 | 2024.07.18 | [Java 6-37](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter6/20240718_ITEM_37.md)|
 | 아이템 38. 확장할 수 있는 열거 타입이 필요하면 인터페이스를 사용하라 | 오유진 | 2024.07.18 | [Java 6-38](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter6/20240718_ITEM_38.md)|
 | 아이템 39. 명명 패턴보다 애너테이션을 사용하라 | 최은혜 | 2024.07.22 | [Java 6-39](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter6/20240722_ITEM_39.md)|
+| 아이템 40. @Override 애너테이션을 일관되게 사용하라 | 최다환 | 2024.07.22 | [Java 6-40](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter6/20240722_ITEM_40.md)|
 | 아이템 41. 정의하려는 것이 타입이라면 마커 인터페이스를 사용하라 | 양지웅 | 2024.07.22 | [Java 6-41](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter6/20240722_ITEM_41.md)|
 
