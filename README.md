@@ -50,4 +50,6 @@
 | 아이템 39. 명명 패턴보다 애너테이션을 사용하라 | 최은혜 | 2024.07.22 | [Java 6-39](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter6/20240722_ITEM_39.md)|
 | 아이템 40. @Override 애너테이션을 일관되게 사용하라 | 최다환 | 2024.07.22 | [Java 6-40](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter6/20240722_ITEM_40.md)|
 | 아이템 41. 정의하려는 것이 타입이라면 마커 인터페이스를 사용하라 | 양지웅 | 2024.07.22 | [Java 6-41](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter6/20240722_ITEM_41.md)|
+| 아이템 42 |  | 2024.07.29 | |
+| 아이템 43. 람다보다는 메서드 참조를 사용하라| 오유진 | 2024.07.29 | [Java 7-43](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter7/20240728_ITEM_43.md)|
 
