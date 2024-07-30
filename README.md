@@ -53,3 +53,4 @@
 | 아이템 42 익명 클래스보다는 람다를 사용하라 | 양지웅  | 2024.07.29 | [Java 7-42](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter7/20240728_ITEM_42.md)|
 | 아이템 43. 람다보다는 메서드 참조를 사용하라| 오유진 | 2024.07.29 | [Java 7-43](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter7/20240728_ITEM_43.md)|
 | 아이템 44. 표준 함수형 인터페이스를 사용하라 | 최다환 | 2024.07.29 | [Java 7-44](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter7/20240728_ITEM_44.md)|
+| 아이템 47. 반환 타입으로는 스트림보다 컬렉션이 낫다 | 오유진 | 2024.07.31 | [Java 7-47](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter7/20240731_ITEM_47.md)|
