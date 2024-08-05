@@ -57,4 +57,5 @@
 | 아이템 46. 스트림에서는 부작용 없는 함수를 사용하라 | 이강현  | 2024.07.31 | [Java 7-46](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter7/20240731_ITEM_46.md)|
 | 아이템 47. 반환 타입으로는 스트림보다 컬렉션이 낫다 | 오유진 | 2024.07.31 | [Java 7-47](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter7/20240731_ITEM_47.md)|
 | 아이템 48. 스트림 병렬화는 주의해서 적용하라 | 이강현 | 2024.08.05 | [Java 7-48](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter7/20240805_ITEM_48.md)|
+| 아이템 49. 매개변수가 유효한지 검사하라 | 양지웅  | 2024.08.05 | [Java 7-49](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter8/20240805_ITEM_49.md)|
 | 아이템 50. 적시에 방어적 복사본을 만들라 | 오유진 | 2024.08.05 | [Java 8-50](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter8/20240805_ITEM_50.md)|
