@@ -59,3 +59,4 @@
 | 아이템 48. 스트림 병렬화는 주의해서 적용하라 | 이강현 | 2024.08.05 | [Java 7-48](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter7/20240805_ITEM_48.md)|
 | 아이템 49. 매개변수가 유효한지 검사하라 | 양지웅  | 2024.08.05 | [Java 7-49](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter8/20240805_ITEM_49.md)|
 | 아이템 50. 적시에 방어적 복사본을 만들라 | 오유진 | 2024.08.05 | [Java 8-50](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter8/20240805_ITEM_50.md)|
+| 아이템 53. 가변인수는 신중히 사용하라 | 오유진 | 2024.08.08 | [Java 8-53](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter8/20240808_ITEM_53.md)|
