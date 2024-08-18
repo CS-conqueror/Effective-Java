@@ -62,3 +62,5 @@
 | 아이템 51. 메서드 시그니처를 신중히 설계하라 | 최은혜 | 2024.08.08 | [Java 8-51](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter8/20240808_ITEM_51.md)|
 | 아이템 52. 다중정의는 신중히 사용하라 | 최다환 | 2024.08.08 | [Java 8-52](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter8/20240808_ITEM_52.md)|
 | 아이템 53. 가변인수는 신중히 사용하라 | 오유진 | 2024.08.08 | [Java 8-53](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter8/20240808_ITEM_53.md)|
+| 아이템 54. null이 아닌, 빈 컬렉션이나 배열을 반환하라 | 양지웅 | 2024.08.19 | [Java 8-54](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter8/20240819_ITEM_54.md)|
+
