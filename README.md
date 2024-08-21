@@ -65,3 +65,6 @@
 | 아이템 54. null이 아닌, 빈 컬렉션이나 배열을 반환하라 | 양지웅 | 2024.08.19 | [Java 8-54](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter8/20240819_ITEM_54.md)|
 | 아이템 55. 옵셔널 반환은 신중히 하라 | 최다환 | 2024.08.19 | [Java 8-55](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter8/20240819_ITEM_55.md)|
 | 아이템 56. 공개된 API 요소에는 항상 문서화 주석을 작성하라 | 이강현 | 2024.08.19 | [Java 8-56](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter8/20240819_ITEM_56.md)|
+| 아이템 57. 지역변수의 범위를 최소화하라 | 이강현 | 2024.08.22 | [Java 9-57](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter9/20240822_ITEM_57.md)|
+|  |  |  | |
+|  |  |  | |
