@@ -69,5 +69,5 @@
 | 아이템 58. 전통적인 for 문보다는 for-each 문을 사용하라 | 최다환 | 2024.08.22 | [Java 9-58](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter9/20240822_ITEM_58.md)|
 | 아이템 59. 라이브러리를 익히고 사용하라 | 최은혜 | 2024.08.22 | [Java 9-59](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter9/20240822_ITEM_59.md) |
 | 아이템 60. 정확한 답이 필요하다면 float와 double은 피하라 | 양지웅 | 2024.08.26 | [Java 9-60](https://github.com/CS-conqueror/Effective-Java/tree/main/Chapter9/20240826_ITEM_60.md)|
-|  |  |  | |
+| 아이템 61. 박싱된 기본 타입보다는 기본 타입을 사용하라 | 최은혜 | 2024.08.26 | [Java 9-61](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter9/20240826_ITEM_61.md)|
 | 아이템 62. 다른 타입이 적절하다면 문자열 사용을 피하라 | 이강현 | 2024.08.26 | [Java 9-62](https://github.com/CS-conqueror/Effective-Java/tree/main/Chapter9/20240826_ITEM_62.md)|
