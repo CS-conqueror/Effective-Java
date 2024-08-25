@@ -68,3 +68,4 @@
 | 아이템 57. 지역변수의 범위를 최소화하라 | 이강현 | 2024.08.22 | [Java 9-57](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter9/20240822_ITEM_57.md)|
 | 아이템 58. 58 전통적인 for 문보다는 for-each 문을 사용하라 | 최다환 | 2024.08.22 | [Java 9-57](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter9/20240822_ITEM_58.md)|
 |  |  |  | |
+| 아이템 60. 정확한 답이 필요하다면 float와 double은 피하라 | 양지웅 | 2024.08.26 | [Java 9-60](https://github.com/CS-conqueror/Effective-Java/tree/main/Chapter9)|
