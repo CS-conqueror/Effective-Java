@@ -71,6 +71,7 @@
 | 아이템 60. 정확한 답이 필요하다면 float와 double은 피하라 | 양지웅 | 2024.08.26 | [Java 9-60](https://github.com/CS-conqueror/Effective-Java/tree/main/Chapter9/20240826_ITEM_60.md)|
 | 아이템 61. 박싱된 기본 타입보다는 기본 타입을 사용하라 | 최은혜 | 2024.08.26 | [Java 9-61](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter9/20240826_ITEM_61.md)|
 | 아이템 62. 다른 타입이 적절하다면 문자열 사용을 피하라 | 이강현 | 2024.08.26 | [Java 9-62](https://github.com/CS-conqueror/Effective-Java/tree/main/Chapter9/20240826_ITEM_62.md)|
+| 아이템 63. 문자열 연결은 느리니 주의하라 | 최다환 | 2024.08.29 | [Java 9-63](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter9/20240829_ITEM_63.md)|
 | 아이템 64. 객체는 인터페이스를 사용해 참조하라 | 양지웅 | 2024.08.29 | [Java 9-64](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter9/20240829_ITEM_64.md)|
 | 아이템 65. 리플렉션 보다는 인터페이스를 사용하라| 오유진 | 2024.08.29 | [Java 9-65](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter9/20240829_ITEM_65.md)|
 
