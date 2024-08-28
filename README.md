@@ -39,7 +39,7 @@
 | 아이템 28. 배열보다는 리스트를 사용하라 | 최은혜 | 2024.07.08 | [Java 5-28](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter5/20240708_ITEM_28.md) |
 | 아이템 29. 이왕이면 제네릭 타입으로 만들라  | 양지웅 | 2024.07.08 | [Java 5-29](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter5/20240708_ITEM_29.md) |
 | 아이템 30. 이왕이면 제네릭 메서드로 만들라 | 이강현 | 2024.07.11 | [Java 5-30](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter5/20240711_ITEM_30.md)|
-| 아이템 31. 아이템 31 한정적 와일드카드를 사용해 API 유연성을 높이라 | 최다환 | 2024.07.11 | [Java 5-31](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter5/20240711_ITEM_31.md)|
+| 아이템 31. 한정적 와일드카드를 사용해 API 유연성을 높이라 | 최다환 | 2024.07.11 | [Java 5-31](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter5/20240711_ITEM_31.md)|
 | 아이템 32. 제네릭과 가변인수를 함께 쓸 때는 신중하라 | 오유진 | 2024.07.11 | [Java 5-32](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter5/20240711_ITEM_32.md)|
 | 아이템 33. 타입 안전 이종 컨테이너를 고려하라 | 최은혜 | 2024.07.15 | [Java 5-33](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter5/20240715_ITEM_33.md)|
 | 아이템 34. int 상수 대신 열거 타입을 사용하라 | 최다환 | 2024.07.15 | [Java 6-34](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter6/20240715_ITEM_34.md)|
