@@ -76,5 +76,5 @@
 | 아이템 65. 리플렉션 보다는 인터페이스를 사용하라| 오유진 | 2024.08.29 | [Java 9-65](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter9/20240829_ITEM_65.md)|
 | | | | |
 | 아이템 67. 최적화는 신중히 하라 | 이강현 | 2024.09.02 | [Java 9-67](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter9/20240902_ITEM_67.md)|
-| | | | |
+| 아이템 68. 일반적으로 통용되는 명명 규칙을 따르라 | 최다환 | 2024.09.02 | [Java 9-68](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter9/20240902_ITEM_68.md)|
 | 아이템 69. 예외는 진짜 예외상황에만 사용하라| 양지웅 | 2024.09.02 | [Java 10-69](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter10/20240902.md) |
