@@ -80,5 +80,5 @@
 | 아이템 69. 예외는 진짜 예외상황에만 사용하라| 양지웅 | 2024.09.02 | [Java 10-69](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter10/20240902_ITEM_69.md) |
 | 아이템 70. 복구할 수 있는 상황에는 검사 예외를, 프로그래밍 오류에는 런타임 예외를 사용하라 | 최은혜 | 2024.09.05 | [Java 10-70](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter10/20240905_ITEM_70.md) |
 | | | | |
-| | | | |
+| 아이템 72. 표준 예외를 사용하라 | 최다환 | 2024.09.05 | [Java 10-72](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter10/20240905_ITEM_72.md) |
 | 아이템 73. 추상화 수준에 맞는 예외를 던져라 | 이강현 | 2024.09.05 | [Java 10-73](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter10/20240905_ITEM_73.md) |
