@@ -82,4 +82,7 @@
 | 아이템 71. 필요 없는 검사 예외 사용은 피하라 | 양지웅 | 2024.09.05 |[Java 10-71](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter10/20240905_ITEM_71.md) |
 | 아이템 72. 표준 예외를 사용하라 | 최다환 | 2024.09.05 | [Java 10-72](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter10/20240905_ITEM_72.md) |
 | 아이템 73. 추상화 수준에 맞는 예외를 던져라 | 이강현 | 2024.09.05 | [Java 10-73](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter10/20240905_ITEM_73.md) |
+| 아이템 74. 메서드가 던지는 모든 예외를 문서화하라 | 이강현 | 2024.09.09 | [Java 10-74](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter10/20240909_ITEM_74.md) |
+| | | | |
+| | | | |
 | 아이템 77. 예외를 무시하지 말라 | 양지웅 | 2024.09.09 |[Java 10-77](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter10/20240909_ITEM_77.md) |
