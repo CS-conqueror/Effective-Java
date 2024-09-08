@@ -84,5 +84,5 @@
 | 아이템 73. 추상화 수준에 맞는 예외를 던져라 | 이강현 | 2024.09.05 | [Java 10-73](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter10/20240905_ITEM_73.md) |
 | 아이템 74. 메서드가 던지는 모든 예외를 문서화하라 | 이강현 | 2024.09.09 | [Java 10-74](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter10/20240909_ITEM_74.md) |
 | | | | |
-| | | | |
+| 아이템 76. 가능한 한 실패 원자적으로 만들라 | 최다환 | 2024.09.09 | [Java 10-76](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter10/20240909_ITEM_76.md) |
 | 아이템 77. 예외를 무시하지 말라 | 양지웅 | 2024.09.09 |[Java 10-77](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter10/20240909_ITEM_77.md) |
