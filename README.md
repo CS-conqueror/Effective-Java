@@ -86,3 +86,7 @@
 | 아이템 75. 예외의 상세 메시지에 실패 관련 정보를 담으라 | 최은혜 | 2024.09.09 | [Java 10-75](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter10/20240909_ITEM_75.md) |
 | 아이템 76. 가능한 한 실패 원자적으로 만들라 | 최다환 | 2024.09.09 | [Java 10-76](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter10/20240909_ITEM_76.md) |
 | 아이템 77. 예외를 무시하지 말라 | 양지웅 | 2024.09.09 |[Java 10-77](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter10/20240909_ITEM_77.md) |
+| | | | |
+| | | | |
+| | | | |
+| 아이템 81. wait와 notify보다는 동시성 유틸리티를 애용하라 | 이강현 | 2024.09.12 | [Java 11-81](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter11/20240912_ITEM_81.md) |
