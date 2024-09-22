@@ -90,5 +90,6 @@
 | 아이템 79. 과도한 동기화는 피하라 | 최다환 | 2024.09.12 | [Java 11-79](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter11/20240912_ITEM_79.md) |
 | 아이템 80. 스레드보다는 실행자, 태스크, 스트림을 이용하라 | 오유진 | 2024.09.12 | [Java 11-80](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter11/20240912_ITEM_80.md)|
 | 아이템 81. wait와 notify보다는 동시성 유틸리티를 애용하라 | 이강현 | 2024.09.12 | [Java 11-81](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter11/20240912_ITEM_81.md) |
+| 아이템 83. 지연 초기화는 신중히 사용하라 | 최다환 | 2024.09.23 | [Java 11-83](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter11/20240912_ITEM_83.md) |
 | 아이템 84. 프로그램의 동작을 스레드 스케줄러에 기대지 말라 | 오유진 | 2024.09.23 | [Java 11-84](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter11/20240923_ITEM_84.md) |
 
