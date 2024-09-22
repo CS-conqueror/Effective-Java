@@ -19,7 +19,7 @@
 | 아이템 8. finalizer와 cleaner 사용을 피하라  | 이강현 | 2024.06.20 | [Java 2-8](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter2/20240620_ITEM_8.md) |
 | 아이템 9. try-finally보다는 try-with-resources를 사용하라  | 최은혜 | 2024.06.20 | [Java 2-9](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter2/20240620_ITEM_9.md) |
 | 아이템 10. equals는 일반 규약을 지켜 재정의하라  | 오유진 | 2024.06.20 | [Java 3-10](https://github.com/CS-conqueror/Effective-Java/tree/main/Chapter3) |
-| 아이템 11. equals를 재정의하려거든 hashCode도 재정의하라 | 최다환 | 2024.06.24 | [Java 3-11](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter2/20240620_ITEM_11.md) 
+| 아이템 11. equals를 재정의하려거든 hashCode도 재정의하라 | 최다환 | 2024.06.24 | [Java 3-11](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter2/20240624_ITEM_11.md) 
 | 아이템 12. toString을 항상 재정의하라  | 오유진 | 2024.06.24 |[Java 3-12](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter3/20240624_ITEM_12.md) |
 | 아이템 13. clone 재정의는 주의해서 진행하라 | 최은혜 | 2024.06.24 | [Java 3-13](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter3/20240624_ITEM_13.md)|
 | 아이템 14. Comparable을 구현할지 고려하라 | 이강현 | 2024.06.24 | [Java 3-14](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter3/20240624_ITEM_14.md) |
@@ -31,11 +31,11 @@
 | 아이템 20. 추상 클래스 보다는 인터페이스를 우선하라  | 오유진 | 2024.06.27 | [Java 4-20](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter4/20240627_ITEM_20.md)  |
 | 아이템 21. 인터페이스는 구현하는 쪽을 생각해 설계하라 | 오유진 | 2024.07.01 | [Java 4-21](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter4/20240701_ITEM_21.md)  |
 | 아이템 22. 인터페이스는 타입을 정의하는 용도로만 사용하라 | 이강현 | 2024.07.01 | [Java 4-22](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter4/20240701_ITEM_22.md)  |
-| 아이템 23. 아이템 23 태그 달린 클래스보다는 클래스 계층구조를 활용하라  | 최다환 | 2024.07.01 | [Java 4-23](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter4/20240704_ITEM_23.md)  |
+| 아이템 23. 아이템 23 태그 달린 클래스보다는 클래스 계층구조를 활용하라  | 최다환 | 2024.07.01 | [Java 4-23](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter4/20240701_ITEM_23.md)  |
 | 아이템 24. 멤버 클래스는 되도록 static으로 만들라  | 양지웅 | 2024.07.04 | [Java 4-24](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter4/20240704_ITEM_24.md)  |
 | 아이템 25. 톱레벨 클래스는 한 파일에 나눠서 담으라  | 최다환 | 2024.07.04 | [Java 4-25](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter4/20240704_ITEM_25.md)  |
 | 아이템 26. 로 타입은 사용하지 말라  | 이강현 | 2024.07.04 | [Java 5-26](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter5/20240704_ITEM_26.md)  |
-| 아이템 27. 비검사 경고를 제거하라  | 최다환 | 2024.07.08 | [Java 5-27](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter5/20240704_ITEM_27.md)  |
+| 아이템 27. 비검사 경고를 제거하라  | 최다환 | 2024.07.08 | [Java 5-27](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter5/20240708_ITEM_27.md)  |
 | 아이템 28. 배열보다는 리스트를 사용하라 | 최은혜 | 2024.07.08 | [Java 5-28](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter5/20240708_ITEM_28.md) |
 | 아이템 29. 이왕이면 제네릭 타입으로 만들라  | 양지웅 | 2024.07.08 | [Java 5-29](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter5/20240708_ITEM_29.md) |
 | 아이템 30. 이왕이면 제네릭 메서드로 만들라 | 이강현 | 2024.07.11 | [Java 5-30](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter5/20240711_ITEM_30.md)|
@@ -90,6 +90,6 @@
 | 아이템 79. 과도한 동기화는 피하라 | 최다환 | 2024.09.12 | [Java 11-79](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter11/20240912_ITEM_79.md) |
 | 아이템 80. 스레드보다는 실행자, 태스크, 스트림을 이용하라 | 오유진 | 2024.09.12 | [Java 11-80](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter11/20240912_ITEM_80.md)|
 | 아이템 81. wait와 notify보다는 동시성 유틸리티를 애용하라 | 이강현 | 2024.09.12 | [Java 11-81](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter11/20240912_ITEM_81.md) |
-| 아이템 83. 지연 초기화는 신중히 사용하라 | 최다환 | 2024.09.23 | [Java 11-83](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter11/20240912_ITEM_83.md) |
+| 아이템 83. 지연 초기화는 신중히 사용하라 | 최다환 | 2024.09.23 | [Java 11-83](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter11/20240923_ITEM_83.md) |
 | 아이템 84. 프로그램의 동작을 스레드 스케줄러에 기대지 말라 | 오유진 | 2024.09.23 | [Java 11-84](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter11/20240923_ITEM_84.md) |
 
