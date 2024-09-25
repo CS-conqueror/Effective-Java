@@ -93,3 +93,6 @@
 | 아이템 82. 스레드 안정성 수준을 문서화 하라 | 양지웅 | 2024.09.23 |[Java 11-82](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter11/20240923_ITEM_82.md) |
 | 아이템 83. 지연 초기화는 신중히 사용하라 | 최다환 | 2024.09.23 | [Java 11-83](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter11/20240923_ITEM_83.md) |
 | 아이템 84. 프로그램의 동작을 스레드 스케줄러에 기대지 말라 | 오유진 | 2024.09.23 | [Java 11-84](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter11/20240923_ITEM_84.md) |
+| 아이템 87. 커스텀 직렬화 형태를 고려해보라 | 양지웅 | 2024.09.26 |[Java 12-87](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter12/20240926_ITEM_87.md) |
+
+
