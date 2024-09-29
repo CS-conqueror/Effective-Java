@@ -93,7 +93,7 @@
 | 아이템 82. 스레드 안정성 수준을 문서화 하라 | 양지웅 | 2024.09.23 |[Java 11-82](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter11/20240923_ITEM_82.md) |
 | 아이템 83. 지연 초기화는 신중히 사용하라 | 최다환 | 2024.09.23 | [Java 11-83](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter11/20240923_ITEM_83.md) |
 | 아이템 84. 프로그램의 동작을 스레드 스케줄러에 기대지 말라 | 오유진 | 2024.09.23 | [Java 11-84](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter11/20240923_ITEM_84.md) |
-| 아이템 85. 자바 직렬화의 대안을 찾으라 | 최은혜 | 2024.09.26 | [Java 12-85](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter12/20240923_ITEM_85.md) |
+| 아이템 85. 자바 직렬화의 대안을 찾으라 | 최은혜 | 2024.09.23 | [Java 12-85](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter12/20240923_ITEM_85.md) |
 | 아이템 86. Serializable을 구현할지는 신중히 결정하라 | 최은혜 | 2024.09.26 |[Java 12-86](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter12/20240926_ITEM_86.md) |
 | 아이템 87. 커스텀 직렬화 형태를 고려해보라 | 양지웅 | 2024.09.26 |[Java 12-87](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter12/20240926_ITEM_87.md) |
 | 아이템 88. readObject 메서드는 방어적으로 작성하라 | 오유진 | 2024.09.30 | [Java 12-88](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter12/20240930_ITEM_88.md)|
