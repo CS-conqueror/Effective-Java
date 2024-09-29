@@ -98,4 +98,4 @@
 | 아이템 87. 커스텀 직렬화 형태를 고려해보라 | 양지웅 | 2024.09.26 |[Java 12-87](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter12/20240926_ITEM_87.md) |
 | | | | |
 | 아이템 89. 인스턴스 수를 통제해야 한다면 readResolve보다는 열거 타입을 사용하라 | 이강현 | 2024.09.30 | [Java 12-89](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter12/20240930_ITEM_89.md) |
-| | | | |
+| 아이템 90. 직렬화된 인스턴스 대신 직렬화 프록시 사용을 검토하라 | 최다환 | 2024.09.30 | [Java 12-90](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter12/20240930_ITEM_90.md) |
