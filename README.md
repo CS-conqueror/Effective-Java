@@ -96,5 +96,6 @@
 | 아이템 85. 자바 직렬화의 대안을 찾으라 | 최은혜 | 2024.09.26 | [Java 12-85](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter12/20240923_ITEM_85.md) |
 | 아이템 86. Serializable을 구현할지는 신중히 결정하라 | 최은혜 | 2024.09.26 |[Java 12-86](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter12/20240926_ITEM_86.md) |
 | 아이템 87. 커스텀 직렬화 형태를 고려해보라 | 양지웅 | 2024.09.26 |[Java 12-87](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter12/20240926_ITEM_87.md) |
-
-
+| | | | |
+| 아이템 89. 인스턴스 수를 통제해야 한다면 readResolve보다는 열거 타입을 사용하라 | 이강현 | 2024.09.30 | [Java 12-89](https://github.com/CS-conqueror/Effective-Java/blob/main/Chapter12/20240930_ITEM_89.md) |
+| | | | |
